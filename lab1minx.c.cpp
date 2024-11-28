@@ -2,9 +2,9 @@
 int main() {
 	int n1;
 	int n2;
-	printf("Input Number 1:");
+	printf("input number1\n");
 	scanf("%d",&n1);
-	printf("Input Number 2:");
+	printf("input number2\n");
 	scanf("%d",&n2);
 	if (n1>n2){
 		int total=n1-n2;
